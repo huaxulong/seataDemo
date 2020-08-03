@@ -1,0 +1,7 @@
+icu\funkye\service\ITestService.class
+icu\funkye\entity\Test.class
+icu\funkye\config\MybatisPlusConfig.class
+icu\funkye\ProviderApplication.class
+icu\funkye\service\impl\TestServiceImpl.class
+icu\funkye\mapper\TestMapper.class
+icu\funkye\controller\ProviderController.class

@@ -1,0 +1,7 @@
+icu\funkye\mapper\ProductMapper.class
+icu\funkye\service\IProductService.class
+icu\funkye\ProductServiceApplication.class
+icu\funkye\config\MybatisPlusConfig.class
+icu\funkye\entity\Product.class
+icu\funkye\service\impl\ProductServiceImpl.class
+icu\funkye\controller\ProductController.class
